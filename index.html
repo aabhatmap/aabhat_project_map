@@ -92,7 +92,7 @@
             skipEmptyLines: true,
             complete: function (results) {
               results.data.forEach((row) => {
-                if (row.lat && row.lng) {
+                if (row.lat && row.lng && row.boolean === "TRUE") {
                   const tags = [
                     { label: row.tag1, link: row.tag1link },
                     { label: row.tag2, link: row.tag2link },

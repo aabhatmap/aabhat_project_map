@@ -1,7 +1,7 @@
 name,lat,lng,image,link,text,tag1,tag1link,tag2,tag2link,tag3,tag3link,boolean
 community,,,,,,,,,,,,
 "MPTB Homestays, MP",23.2647,77.365,assets/image/mptb.jpg,,,community,https://aabhat.org.in/action/community/,technology,https://aabhat.org.in/action/technology/,,,FALSE
-"Street Vendors, Bhuj",23.238228,69.664578,assets/image/svb.jpg,https://aabhat.org.in/action/community/street-vendors-bhuj/,,community,https://aabhat.org.in/action/community/,,,education,https://aabhat.org.in/action/education/,TRUE
+"Street Vendors, Bhuj",23.238228,69.664578,assets/image/svb.jpg,,,community,https://aabhat.org.in/action/community/,,,education,https://aabhat.org.in/action/education/,FALSE
 "HFAPoA, Gujarat",,,assets/image/hfa.jpg,,,community,https://aabhat.org.in/action/community/,,,,,FALSE
 "PMAY-G, Jharkhand",,,assets/image/pmayg.jpg,,,community,https://aabhat.org.in/action/community/,,,,,FALSE
 "PMAY-U (Collective Housing), Bhuj",23.254881,69.647784,assets/image/pmayu.jpg,,,community,https://aabhat.org.in/action/community/,,,,,FALSE
@@ -9,13 +9,13 @@ community,,,,,,,,,,,,
 ,,,,,,,,,,,,
 technology,,,,,,,,,,,,
 "Moving School, Bhadreshwar",22.869871,69.89231,assets/image/movingsch.jpg,https://aabhat.org.in/action/technology/moving-school/,A School for the Children of Fishing Communities on the Coast of Kutch,community,https://aabhat.org.in/action/community/,technology,https://aabhat.org.in/action/technology/,,,TRUE
-"Alma Mater, Jodhpur",26.178625,72.962415,assets/image/ams.jpg,https://aabhat.org.in/action/technology/alma-mater/,,,,technology,https://aabhat.org.in/action/technology/,,,TRUE
-"Sahyadri School, Pune",18.9854739,73.762495,assets/image/kfi.jpg,https://aabhat.org.in/action/technology/sahyadri-school/,,community,https://aabhat.org.in/action/community/,technology,https://aabhat.org.in/action/technology/,,,TRUE
-"WWF Community Conservation Center, Indri",22.4045673,80.364473,assets/image/wwf.jpeg,,A Community Centre for WWF to Support Livelihood Training in the Villages of Kanha,,,technology,https://aabhat.org.in/action/technology/,,,FALSE
+"Alma Mater, Jodhpur",,,assets/image/ams.jpg,https://aabhat.org.in/action/technology/alma-mater/,,,,technology,https://aabhat.org.in/action/technology/,,,TRUE
+"Sahyadri School, Pune",18.9854739,73.762495,assets/image/kfi.jpg,,,community,https://aabhat.org.in/action/community/,technology,https://aabhat.org.in/action/technology/,,,TRUE
+"WWF Community Conservation Center, Indri",22.4045673,80.364473,assets/image/wwf.jpeg,https://aabhat.org.in/action/technology/wwf-ccc/,A Community Centre for WWF to Support Livelihood Training in the Villages of Kanha,,,technology,https://aabhat.org.in/action/technology/,,,FALSE
 "Priyasha Rutvid Residence, Bhuj",23.235261,69.695817,assets/image/prr.jpg,,,,,technology,https://aabhat.org.in/action/technology/,,,FALSE
 ,,,,,,,,,,,,
 education,,,,,,,,,,,,
-Aina Series of Workshops,23.226856,69.642704,assets/image/asw.jpg,,,,,technology,https://aabhat.org.in/action/technology/,education,https://aabhat.org.in/action/education/,TRUE
+Aina Series of Workshops,23.226856,69.642704,assets/image/asw.jpg,,,,,technology,https://aabhat.org.in/action/technology/,education,https://aabhat.org.in/action/education/,FALSE
 "Serendipity Arts Festival, Panjim",,,assets/image/saf.jpg,,,,,,,education,https://aabhat.org.in/action/education/,FALSE
 "NASA Workshop, Berdo",,,assets/image/berdo.jpg,,,community,https://aabhat.org.in/action/community/,,,education,https://aabhat.org.in/action/education/,FALSE
 "SEA Course, Bhuj",23.251216,69.663942,assets/image/seaclg.jpg,,,community,https://aabhat.org.in/action/community/,,,education,https://aabhat.org.in/action/education/,FALSE
